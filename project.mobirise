@@ -1,0 +1,3659 @@
+{
+  "settings": {
+    "name": "CASA EVASION ALMUÑECAR",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#f97352",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#406dae",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#615652",
+        "#301078",
+        "#131e40",
+        "#a7c7f5",
+        "#7eaae9",
+        "#406dae"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.12.3",
+    "siteFonts": [],
+    "imageResize": true,
+    "uniqCompNum": 498,
+    "versionPublish": "4.12.3",
+    "screenshot": "screenshot.png",
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "opacityOverlay": "80",
+      "text": "We use cookies to give you the best experience. Read our <a href='cookies.html'>cookie policy</a>.",
+      "textButton": "Agree"
+    },
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": true,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/logoazul-128x128-1.png",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Casa Evasión Almuñecar",
+        "meta_descr": "Alquiler vacacional",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#131e40",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html#msg-box3-9t\">CONTACTO</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#070c19"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#0f1834!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#131e40"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f97352!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logoazul-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CASA EVASIÓN ALMUÑÉCAR</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-dr"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "32px"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#131e40",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "",
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-cy"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "32px"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#406dae",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "",
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-bg"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/2ac0dc72-fd9a-40d6-a266-d9a5af97fc70-1599x1066.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.2"
+          },
+          "title": "<i>'Un bello lugar <br>para evadirse'</i>",
+          "text": "<br>Casa Evasión",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-a7",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "60px"
+            },
+            ".mbr-section-title I": {
+              "font-size": "60px"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "32px"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#131e40",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<span style=\"font-weight: normal;\">Immerse yourself in the wonderful world of Spain, marvel, enjoy and relax </span>– <span style=\"font-weight: normal;\">at the highest level&nbsp;</span>",
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-26"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            },
+            ".btn": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "info@caminosautenticos.com",
+          "text": "<p>If you are really interested in taking a trip around Spain, contact us by email or phone.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">(+34) 678 950 054</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-aa"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "32px"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#406dae",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "",
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-bf"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#406dae"
+            },
+            ".lead P": {
+              "font-size": "23px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<i>'<span style=\"font-weight: normal;\">Una casa</span></i><div><i>especial'</i></div>",
+          "text": "<p><b>Entre la playa y el cielo</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-dq"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "5",
+            "bgColor": "#fff"
+          },
+          "text": "<p><br></p><p>Especial y única<b> </b>para evadirse en su hermoso jardín, las vistas desde sus distintas terrazas le atraparán con un café, una comida a la sombra arbórea o una copa en el silencio de la noche sólo amenizado por<b> el sonido del mar</b>'.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-ae",
+          "_styles": {
+            "P": {
+              "font-size": "22px",
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "36px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "23px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "3",
+            "paddingBottom": "5",
+            "bgColor": "#406dae"
+          },
+          "title": "<span style=\"font-weight: normal;\">'Qué le voy a hacer, si yo</span>",
+          "meta": "<br>Nací en el mediterráneo'",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-cs"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "font-size": "25px"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/c6fecebe-430b-458f-b24b-de1b339fd23d-1600x800.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "&nbsp;Especial y única",
+          "text": "<p>&nbsp;para evadirse en su hermoso jardín,</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-cz"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Casa Evasión",
+          "text": "<p>'Una lugar con&nbsp;<span style=\"font-size: 1.07rem;\">vistas, jardines y estilo'</span></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-dm"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "&nbsp;'Morrocco Style'",
+          "text": "<p>Un salón a la vez fresco y cálido</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-dl"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/salonmorroco2-1400x933.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-da"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/salonmorroco3-1440x960.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-d9"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/salonmorroco4-1400x933.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-db"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/salonmorroco5-1440x960.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-dc"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "'El alimento<br>de la&nbsp;luz'",
+          "text": "<p>Un comedor entre arcos y ventanales</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-dk"
+        },
+        {
+          "_params": {
+            "autoplay": false,
+            "fullScreen": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/comedor1-1-1440x960.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BACKGROUND VIDEO",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/comedor4-1-1440x960.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BACKGROUND VIDEO",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/comedor2-1440x960.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BACKGROUND VIDEO",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/comedor3-1-1440x960.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BACKGROUND VIDEO",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/comedor5-1-1440x960.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BACKGROUND VIDEO",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_styles": {
+            "H2": {
+              "text-align": "center",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "slider3-c7"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Cotidiano&nbsp;<div>'deluxe'</div>",
+          "text": "<p>Dos cocinas prácticas y luminosas</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-dj"
+        },
+        {
+          "_params": {
+            "autoplay": false,
+            "fullScreen": false,
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/cocina3-1-1440x960.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/cocina1-1-1440x960.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/cocina2-1-1440x960.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_anchor": "slider3-cb"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "'Romántico <br>&amp; Chillout'",
+          "text": "<p>Dormitorio de madera con terraza</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-di"
+        },
+        {
+          "_params": {
+            "autoplay": false,
+            "fullScreen": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/dormitorioterraza4-1440x960.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dormitorioterraza1-1440x960.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dormitorioterraza2-1440x960.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dormitorioterraza3-1440x960.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dormitorioterraza5-1440x960.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dormitorioterraza6-1440x960.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_anchor": "slider3-ce"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "'Dormir, meditar,<div>descansar'</div>",
+          "text": "<p>Dos dormitorios más, uno más Zen, el otro más colorido&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-dg"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-lead": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "autoplay": false,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/dormi4-1-1440x960.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dormi5-1440x960.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dormi1-1-1440x960.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dormi2-1440x960.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_anchor": "slider2-ck"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "'Lo sencillo <br>es elegante'",
+          "text": "<p>Tres cuartos de baño minimalistas y luminosos</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-ds"
+        },
+        {
+          "_params": {
+            "autoplay": false,
+            "fullScreen": false,
+            "paddingTop": "0",
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/bano3-1440x960.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/bano2-1440x960.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/bano1-1440x960.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_anchor": "slider3-dt"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "'Oh! variedad&nbsp;<div>de terrazas <br>y jardines'&nbsp;</div>",
+          "text": "<p><b>Y con Jacuzzi</b><br>Distintos ambientes, distintas sensaciones</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Y con Jacuzzi</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-df"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-lead": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "autoplay": false,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "paddingTop": "0",
+            "paddingBottom": 4,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/terraza2-1440x960.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/terraza1-1440x960.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/terraza3-1440x960.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/terraza4-1440x960.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/terraza5-1440x960.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/terraza6-1440x960.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/terraza7-1440x960.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/terraza8-1440x960.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/terraza9-1440x960.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/terraza11-1440x960.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/terraza12-1440x960.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/terraza13-1440x960.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/terraza14-1440x960.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_anchor": "slider2-cl"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "36px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "36px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "30px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgColor": "#406dae"
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>' Te vas, pensando en volver'.</i></span>",
+          "meta": "Te vas, pensando en volver.'",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-ct"
+        },
+        {
+          "_params": {
+            "autoplay": false,
+            "fullScreen": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "showBullets": false,
+            "bgColor": "#fff",
+            "timeout": "10",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/81e7c7b6-8e6e-45e2-bfe8-0ea373ab445c-1024x768.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<span style=\"font-size: 48px; font-weight: normal;\">MEDITERRÁNEO</span>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "J.M. Serrat",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2e79984a-51cf-4be6-a543-516fcde4c73f-1024x768.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<i>Quizás porque mi niñez&nbsp;</i>",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "sigue jugando en tu playa<br><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/519df9d1-3c46-41ce-94bf-61c150ba2de7-1-768x1024.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<div><i>Y escondido <br>tras las cañas</i>&nbsp;</div>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Duerme mi primer amor,",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/980b802b-31c2-4875-b139-76ba7eff0ead-2-1024x768.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<div><i>Llevo tu luz y tu olor</i></div>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Por dondequiera que vaya,",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/5729f162-6b1d-43d8-a075-a4f278286e69-1200x1600.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<i>Y amontonado <br>en tu arena</i>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Guardo amor, juegos y penas.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/18715915-9df1-4bcc-a7a7-5c579846cb1b-768x1024.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<span style=\"font-size: 48px;\"><i>Yo, que en la piel<br>tengo el sabor</i></span>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Amargo del llanto eterno",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/c2b3e1d9-e518-41f3-af54-b8a43ef7ac65-576x1024.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<i style=\"font-weight: normal;\">Que han vertido <br>en ti cien pueblos</i>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "De Algeciras a Estambul",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/c91a5528-a5a9-4c68-bcc3-ab290bf8f8b2-768x1024.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<span style=\"font-size: 48px; font-weight: normal;\"><i>Para que pintes de azul</i></span>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Sus largas noches de invierno.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.4"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/c89847db-0147-45e5-aafc-2f060b13bb46-1-768x1024.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<i>A fuerza de desventuras,</i>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Tu alma es profunda y oscura.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-al",
+          "_styles": {
+            "P": {
+              "font-size": "19px"
+            },
+            "H2": {
+              "font-size": "48px"
+            },
+            "I": {
+              "font-size": "36px"
+            },
+            "SPAN": {
+              "font-size": "36px",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#406dae"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "36px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "9px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#406dae"
+          },
+          "title": "<span style=\"font-weight: normal;\">B I E N H A L L A D O</span>",
+          "meta": "'Jugando con la marea<br>Te vas, pensando en volver.'",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-cu"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#406dae"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<span style=\"font-weight: normal;\">'Sorpréndete'</span><div>Almuñécar</div>",
+          "text": "<p>Costa Tropical de GRANADA.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-dn"
+        },
+        {
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "bgColor": "#fff"
+          },
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;<b>Sorpréndete con los espectaculares</b> amaneceres y atardeceres sobre los peñones en el mar mediterráneo que identifican a Almuñécar como cuna de antiguas civilizaciones.. Y relajándose al ir a dormir con el sonido del rompeolas arropándose con <b>hermosos sueños</b>.</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "content1-bw"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "32px",
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#406dae",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "'Entre la Playa<br>y el Cielo'",
+          "text": "<p><b>Casa Evasión&nbsp;<span style=\"font-size: 1.07rem;\">Almuñécar</span></b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-do"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "font-size": "25px"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/c6fecebe-430b-458f-b24b-de1b339fd23d-1600x800.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "&nbsp;Especial y única",
+          "text": "<p>&nbsp;para evadirse en su hermoso jardín,</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-bm"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;<b>Casa Evasión Almuñécar </b>nos traslada a esa originalidad y singularidad de esas casas independientes junto al mar, de las que ya quedan pocas en la costa granadina. Situada a unos metros a pie de la playa, paseo marítimo, restaurantes autóctonos e internacionales, escuela de buceo o parada de autobús urbano</p><p><br></p><p><br></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "content1-ak"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#406dae"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "36px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "9px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#406dae"
+          },
+          "title": "<span style=\"font-weight: normal;\">B I E N H A L L A D O</span>",
+          "meta": "'Jugando con la marea<br>Te vas, pensando en volver.'",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-cv"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "cotobro, almuñécar, granada, Spain",
+              "placeId": "ChIJ_xEyRXCIcQ0RjHuThbFgFWs",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-b1"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "32px"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#406dae",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "",
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-de"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            },
+            ".lead P": {
+              "text-align": "center",
+              "font-size": "25px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/saon-1440x960.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.3"
+          },
+          "title": "&nbsp; <span style=\"font-weight: normal;\">Un l<i>ugar mágico...</i></span>",
+          "text": "<p>con todos los servicios para el confort.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-b2"
+        },
+        {
+          "_inherit": "features4",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "wifi",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "index.html",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "desktop",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "index.html",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "touch-swipe",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "index.html",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "login",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "index.html",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
+            }
+          },
+          "title1": "WiFi",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "",
+          "title2": "TV 55' plasma",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "",
+          "title3": "Aire acondicionado",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "",
+          "title4": "Horno",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features7",
+          "_anchor": "features7-ay"
+        },
+        {
+          "_inherit": "features4",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "like",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "index.html",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "clock",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "index.html",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "cart-full",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "index.html",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "timer",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "index.html",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
+            }
+          },
+          "title1": "Calefacción",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "",
+          "title2": "Lavadora",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "",
+          "title3": "Frigorífico",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "",
+          "title4": "Microondas",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features7",
+          "_anchor": "features7-az"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#f97352"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#f97352"
+          },
+          "title": ".",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-cn"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "47",
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/macetas-960x1440.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Los detalles",
+          "text": "<b>CARACTERÍSTICAS</b><br><b>8</b>&nbsp;personas de capacidad máxima.<b>&nbsp;<br>4 </b>Dormitorios.<br><b>3 &nbsp;</b>Baños.&nbsp;<b>&nbsp;2</b>&nbsp;Cocinas.<br><br><b>SERVICIOS</b><br>WiFi.,TV55' plasma<br>Aire acondicionado<br>Calefación<br>Lavadora,&nbsp;Frigorífico<br>Microondas<br><br><b>CONDICIONES</b><br><b>- No</b> se admiten mascotas..<br><b>- No</b> está permitido fumar en<br>el interior de la casa, ¡Gracias!.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-ba",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "32px"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "44",
+            "paddingTop": 0,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/detalles2-960x1440.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Más detalles",
+          "text": "Reserva por teléfono o mail <br>Confirmación por email<br>Pago 50 % confirmación reserva<br>100% una semana antes<br>Ingreso banco...",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-cr",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#f97352"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#f97352"
+          },
+          "title": ".",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-co"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
+            "count": "4",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.2
+          },
+          "title": "Algunos comentarios",
+          "subtitle": "Inspirados en estancias en Casa Evasión",
+          "testimonial": [
+            {
+              "authorName": "Irene Garcia.",
+              "authorBio": "User",
+              "text": "<p>“Un sitio tranquilo, desconocido para muchos, muy acogedor, romántico, apartado del bullicio pero cerca de todo, ubicación ideal.&nbsp;<span style=\"font-size: 1.125rem;\">Las cenas por las noches en el salón o las terrazas son un encanto, el ambiente muy romántico, con una tranquilidad absoluta, en fin, ideal para hacer una escapada si estás en un momento de tu vida que necesitas desconectar.”</span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Patricia Rivas&nbsp;",
+              "authorBio": "User",
+              "text": "<p>“El lugar es muy bonito y agradable. Un remanso de paz!. Un lugar con encanto, muy cerca de la playa andando y muy cerca de restaurantes. Tiene un jacuzzi en la terraza que se está genial. Recomiendo reservar directamente sin utilizar OTAs”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Santiago Tortosa",
+              "authorBio": "User",
+              "text": "<p>“Muy bonito , las habitaciones muy grandes con una terraza enorme y las camas muy cómodas, se respira paz y tranquilidad .”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Carla Dominguez",
+              "authorBio": "Developer",
+              "text": "<p>“Estuvimos una semanita en Casa Evasión, la localización nos encantó rodeados de verde, paz y tranquilidad, las habitaciones preciosas y con unas terrazas que eran sin duda lo mejor de lo mejor, desde donde veíamos el mar. La habitaciones súper limpias.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials2",
+          "_anchor": "testimonials2-b8",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "32px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#f97352"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#f97352"
+          },
+          "title": ".",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-cp"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "25px"
+            },
+            ".btn": {
+              "font-size": "19px"
+            },
+            ".lead P": {
+              "font-size": "17px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "hola@casaevasion.com",
+          "text": "<p>Contacta para consultar disponibilidad y hacer tu reserva.<br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">(+34) 655 78 92 07</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-b5"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#f97352"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#f97352"
+          },
+          "title": ".",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-cx"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "32px"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#131e40",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "",
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-9t"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#131e40",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logoazul-128x128.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "sun2",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<b>CASA EVASION</b><br>Paseo de Cotobro ALMUÑECAR<br>GRANADA- Spain<br>",
+          "text2": "hola@casaevasion.com<br>&nbsp;(+34) &nbsp;655 78 92 07",
+          "text3": "-&nbsp;<a class=\"text-primary\" href=\"legal.html\">Legal</a><br>-&nbsp;<a class=\"text-primary\" href=\"cookies.html\">Cookies</a><br>-&nbsp;<a class=\"text-primary\" href=\"privacy.html\">Privacy</a><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1k",
+          "_styles": {
+            "P": {
+              "font-size": "16px",
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "cookies.html": {
+      "settings": {
+        "meta_descr": "Cookies",
+        "title": "Cookies",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "23px",
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-size": "36px",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "7",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "title": "COOKIES&nbsp;",
+          "meta": "A special form to enjoy and visit Spain.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-7i"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "23px",
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#f3c649",
+              "font-size": "36px",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgColor": "#131e40"
+          },
+          "title": "ESPAÑOL",
+          "meta": "A special form to enjoy and visit Spain.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-7j"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>1. Cookies</b></p><p>Cuando consultes nuestros sitios web, aplicaciones o mensajes electrónicos, puede que instalemos cookies en tu navegador ateniéndonos a tus preferencias.&nbsp;<span style=\"font-size: 1.07rem;\">Utilizamos la tecnología de las cookies para lo siguiente:&nbsp;</span><span style=\"font-size: 1.07rem;\">Personalizar los contenidos que te proponemos;&nbsp;</span><span style=\"font-size: 1.07rem;\">Adaptar la presentación de nuestras páginas web a las preferencias de visualización de tu dispositivo, los soportes físicos, programas de visualización o de lectura de tu dispositivo; &nbsp; &nbsp; &nbsp;&nbsp;</span></p><p>Guardar información relativa a un formulario que hayas cumplimentado en nuestro sitio web, por ejemplo, en el momento de tu inscripción;&nbsp;<span style=\"font-size: 1.07rem;\">Guardar los productos, servicios o información que hayas elegido;&nbsp;</span><span style=\"font-size: 1.07rem;\">y también medir individualmente el uso que se hace de los envíos masivos de correos electrónicos.</span></p><p><br><b>2. Las cookies de&nbsp;</b></p><p>Caminos Auténticos S.L. utiliza la tecnología de las cookies.&nbsp;<span style=\"font-size: 1.07rem;\">Gracias a las cookies instaladas, Caminos Auténticos S.L podrás leer información sobre las visitas anteriores del usuario a sitios web o las operaciones de envíos masivos de correos electrónicos.&nbsp;</span><span style=\"font-size: 1.07rem;\">Principales características de las cookies instaladas por Caminos Auténticos S.L:&nbsp;</span><span style=\"font-size: 1.07rem;\">Las informaciones almacenadas en las cookies emitidas por Caminos Auténticos S.L son anónimas y solamente se pueden leer en el contexto de las operaciones de dicha empresa.&nbsp;</span><span style=\"font-size: 1.07rem;\">Las cookies se guardan en la carpeta «cookies» del navegador.&nbsp;</span><span style=\"font-size: 1.07rem;\">La duración máxima de las cookies emitidas se limita, en principio, a trece meses.&nbsp;</span><span style=\"font-size: 1.07rem;\">Puede que algunas cookies hayan sido emitidas por servicios externos utilizados en nuestros sitios web para efectuar la analítica web y de consultas, el reconocimiento de tu dispositivo para comunicaciones adaptadas a tus ámbitos de interés y compartir contenidos en las redes sociales.&nbsp;</span><span style=\"font-size: 1.07rem;\">Tales usos diferenciados tienen por objeto permitir que Caminos Auténticos S.L te conozca mejor y que responda mejor a tus expectativas de la forma más personalizada posible.&nbsp;</span><span style=\"font-size: 1.07rem;\">Puedes oponerte parcial o totalmente a la instalación de cookies en tu dispositivo. Sin embargo, esta elección es susceptible de modificar tu navegación por internet y alterar sustancialmente algunos accesos a nuestros servicios y publicaciones que requieren la lectura de las cookies instaladas.&nbsp;</span><span style=\"font-size: 1.07rem;\">En ese caso, no asumimos ninguna responsabilidad por las consecuencias relacionadas con el funcionamiento alterado de nuestros servicios derivado de la imposibilidad de almacenar o consultar las cookies necesarias para su funcionamiento y que pudieras haber rechazado o eliminado.</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><b>3. ¿Qué es una cookie?</b></p><p>Una cookie es un pequeño archivo instalado por un sitio web en el dispositivo de un usuario. Dicho fichero almacena los parámetros de internet del dispositivo de conexión y la información relativa a la navegación del usuario.&nbsp;<span style=\"font-size: 1.07rem;\">Cuando vuelvas a conectarte al sitio web mediante el mismo dispositivo, el navegador podrá utilizar los datos de la cookie y transmitirlos a dicho sitio tras una verificación.&nbsp;</span><span style=\"font-size: 1.07rem;\">Las cookies son importantes para el buen funcionamiento de un sitio web, puesto que permiten almacenar la información de conexión, ofrecer una conexión segura, recopilar estadísticas con objeto de optimizar las funcionalidades del sitio web y adaptar los contenidos a sus intereses.</span></p><p><br></p><p><b>4. Principales tipos de cookies y sus funciones</b></p><p><b>Cookies de sesión:&nbsp;</b><span style=\"font-size: 1.07rem;\">Estas cookies facilitan la navegación, se almacenan en el dispositivo de conexión (PC, portátil, tableta o teléfono móvil) en el momento de la visita a un sitio web (la sesión), solamente están activas cuando se navega por el sitio y se eliminan tras cerrar el navegador.</span></p><p><b>Cookies persistentes:&nbsp;</b><span style=\"font-size: 1.07rem;\">Estas cookies permanecen en su dispositivo hasta su caducidad o hasta que las elimines del caché de tu navegador y se activan cada vez que visites el sitio web que las ha creado.</span></p><p>Nos permiten reconocerte, ayudan a analizar tu comportamiento en el sitio web y permiten identificar problemas. Todas las informaciones se recopilan de forma anónima.</p><p><b>Cookies de autentificación del usuario:&nbsp;</b><span style=\"font-size: 1.07rem;\">Estas cookies permitirán que los miembros inscritos que deseen conectarse a tu cuenta, no necesiten la contraseña.</span></p><p><span style=\"font-size: 1.07rem;\"><b>Cookies analíticas:&nbsp;</b></span><span style=\"font-size: 1.07rem;\">Estas cookies sirven para analizar el público de un sitio web permitiendo conocer la frecuencia de las visitas, la utilización del sitio y medir su actuación.</span></p><p>Permiten mejorar el funcionamiento y la usabilidad de los sitios web destacando algunos contenidos con mayor demanda y simplificando la navegación.</p><p><b>Cookies publicitarias:&nbsp;</b><span style=\"font-size: 1.07rem;\">Estas cookies recopilan tus ámbitos de interés, que posteriormente se utilizarán para presentarte comunicaciones adaptadas a tus gustos o necesidades y esto incluso cuando hayas salido del sitio web.</span></p><p>Puedes rechazar las cookies publicitarias.&nbsp;<span style=\"font-size: 1.07rem;\">El hecho de rechazar las cookies publicitarias no repercute en el funcionamiento de un sitio web ni impide que se muestren contenidos publicitarios. Los contenidos publicitarios seguirán mostrándose, pero sin tener en cuenta tus preferencias e intereses.</span></p><p><b>Cookies de terceros:&nbsp;</b><span style=\"font-size: 1.07rem;\">Podemos recurrir a empresas asociadas para poner en valor a nuestro público. Es posible que dichos socios instalen cookies en el dispositivo conectado.</span></p><p><b>Cookies de redes sociales:&nbsp;</b><span style=\"font-size: 1.07rem;\">Cuando utilices los botones para compartir contenidos en línea a través de las redes sociales como Twitter y Facebook, se instalará una cookie en el navegador de tu dispositivo.</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><b>5. Control y eliminación de las cookies</b></p><p>Puedes rechazar la instalación de estas cookies en tu dispositivo modificando los parámetros relativos a las cookies a través de nuestra interfaz de gestión de cookies [enlace a la herramienta de gestión de rechazo de cookies.</p><p>Esta operación se hace configurando directamente el navegador. De este modo, la mayoría de los navegadores permiten configurar que se acepten o rechacen todas las cookies o algunas de ellas.&nbsp;<span style=\"font-size: 1.07rem;\">Asimismo, puedes elegir configurar tu navegador de forma que te pregunte cada vez si quieres almacenar una cookie o eliminar las cookies almacenadas por el navegador de tu dispositivo de conexión.&nbsp;</span><span style=\"font-size: 1.07rem;\">Los procesos de control y eliminación de cookies difieren en función de los programas de navegación y te sugerimos que utilice la función «Ayuda» del navegador para más información.&nbsp;</span><span style=\"font-size: 1.07rem;\">Por lo tanto, para:&nbsp;</span><span style=\"font-size: 1.07rem;\">Internet Explorer 6, 7 o 8 (Microsoft): elige Herramientas, Opciones de Internet, Confidencialidad, y selecciona el nivel deseado.&nbsp;</span><span style=\"font-size: 1.07rem;\">Internet Explorer 9: elige Herramientas, después Opciones Internet, Privacidad, después Configuración y desplaza el cursor según tus preferencias antes de hacer clic en Aceptar.&nbsp;</span><span style=\"font-size: 1.07rem;\">Firefox: elige en el menú Preferencias, Privacidad y la configuración que prefieras.&nbsp;</span><span style=\"font-size: 1.07rem;\">Netscape 6.X y 7. X: elige en el menú Edición, Preferencias, Confidencialidad y Seguridad y después Cookies.&nbsp;</span><span style=\"font-size: 1.07rem;\">Opera 6.0 y posteriores: elige Archivo, Preferencias y luego, Privacidad.&nbsp;</span><span style=\"font-size: 1.07rem;\">Chrome: haz clic en el menú y elige Configuración, después Configuración Avanzada, Privacidad y seguridad, Configuración del sitio web y luego en Cookies selecciona el nivel que desees.&nbsp;</span><span style=\"font-size: 1.07rem;\">Safari: haz clic en el menú Preferencias y después en Privacidad para elegir.</span></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-7m"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#131e40",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logoazul-128x128.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "sun2",
+              "family": "MobiriseIcons",
+              "active": true
+            }
+          },
+          "text1": "<b>CASA EVASION</b><br>Paseo de Cotobro ALMUÑECAR<br>GRANADA- Spain<br>",
+          "text2": "hola@casaevasion.com<br>&nbsp;(+34) &nbsp;655 78 92 07",
+          "text3": "-&nbsp;<a class=\"text-primary\" href=\"legal.html\">Legal</a><br>-&nbsp;<a class=\"text-primary\" href=\"cookies.html\">Cookies</a><br>-&nbsp;<a class=\"text-primary\" href=\"privacy.html\">Privacy</a><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1k",
+          "_styles": {
+            "P": {
+              "font-size": "16px",
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#131e40",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html#msg-box3-9t\">CONTACTO</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#070c19"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#0f1834!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#131e40"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f97352!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logoazul-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CASA EVASIÓN ALMUÑÉCAR</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-dr"
+        }
+      ]
+    },
+    "privacy.html": {
+      "settings": {
+        "meta_descr": "Cookies",
+        "title": "Privacy",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "23px",
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-size": "36px",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "7",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "title": "PRIVACIDAD&nbsp;",
+          "meta": "A special form to enjoy and visit Spain.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-82"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "23px",
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#f3c649",
+              "font-size": "36px",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgColor": "#131e40"
+          },
+          "title": "ESPAÑOL",
+          "meta": "A special form to enjoy and visit Spain.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-85"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Política de privacidad</b></p><p>En cumplimiento de lo establecido en la RGPD, le informamos que sus datos serán tratados en nuestros ficheros, con la finalidad del mantenimiento y cumplimiento de la relación con nuestra entidad, incluyendo el envío de comunicaciones en el marco de la citada relación.</p><p><br></p><p>Así mismo, sus datos serán cedidos en todos aquellos casos en que sea necesario para el desarrollo, cumplimiento y control de la relación con nuestra entidad o en los supuestos en que lo autorice una norma con rango de ley.</p><p><br></p><p>En cumplimiento de la RGPD puede ejercitar sus derechos ante Caminos Auténticos, con dirección en Málaga, adjuntando fotocopia de su DNI.</p><p><br></p><p>&nbsp;El contenido de esta comunicación, así como el de toda la documentación anexa, está sujeta al deber de secreto y va dirigida únicamente a su destinatario. En el supuesto de que usted no fuera el destinatario, le solicitamos que nos lo indique y no comunique su contenido a terceros, procediendo a su destrucción.</p><p><br></p><p>El prestador de servicios de la sociedad de la información deberá tener en cuenta que, además de la información que facilite a los destinatarios del servicio a través de su “Política de Privacidad”, deberá disponer de textos legales adicionales relativos a otras normativas de obligado cumplimiento, tales como, sin carácter limitativo o excluyente, condiciones generales de la contratación, propiedad intelectual e industrial, condiciones de utilización de la página web y responsabilidades al respecto, o lo que la propia Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y de Comercio Electrónico pueda establecer en cualesquiera otros preceptos al margen de su artículo 10 o incluso completar la información que, en relación a éste, fuese necesaria.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-86"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#131e40",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logoazul-128x128.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "sun2",
+              "family": "MobiriseIcons",
+              "active": true
+            }
+          },
+          "text1": "<b>CASA EVASION</b><br>Paseo de Cotobro ALMUÑECAR<br>GRANADA- Spain<br>",
+          "text2": "hola@casaevasion.com<br>&nbsp;(+34) &nbsp;655 78 92 07",
+          "text3": "-&nbsp;<a class=\"text-primary\" href=\"legal.html\">Legal</a><br>-&nbsp;<a class=\"text-primary\" href=\"cookies.html\">Cookies</a><br>-&nbsp;<a class=\"text-primary\" href=\"privacy.html\">Privacy</a><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "16px",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-87"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#131e40",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html#msg-box3-9t\">CONTACTO</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#070c19"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#0f1834!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#131e40"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f97352!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logoazul-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CASA EVASIÓN ALMUÑÉCAR</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-dr"
+        }
+      ]
+    },
+    "conditions.html": {
+      "settings": {
+        "meta_descr": "Cookies",
+        "title": "Conditions",
+        "order": 6
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "23px",
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-size": "36px",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "7",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "title": "CONDITIONS [<a href=\"Cookies.html#header3-7k\">EN</a>] [<a href=\"Cookies.html#header3-7j\">ES</a>]",
+          "meta": "A special form to enjoy and visit Spain.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-8a"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "23px",
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#f3c649",
+              "font-size": "36px",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgColor": "#131e40"
+          },
+          "title": "ENGLISH",
+          "meta": "A special form to enjoy and visit Spain.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-8b"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Conditions</b></p><p>Text</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-8c"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "23px",
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#f3c649",
+              "font-size": "36px",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgColor": "#131e40"
+          },
+          "title": "ESPAÑOL",
+          "meta": "A special form to enjoy and visit Spain.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-8d"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Condiciones</b></p><p>texto</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-8e"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#131e40",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logoazul-128x128.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "sun2",
+              "family": "MobiriseIcons",
+              "active": true
+            }
+          },
+          "text1": "<b>CASA EVASION</b><br>Paseo de Cotobro ALMUÑECAR<br>GRANADA- Spain<br>",
+          "text2": "hola@casaevasion.com<br>&nbsp;(+34) &nbsp;655 78 92 07",
+          "text3": "-&nbsp;<a class=\"text-primary\" href=\"legal.html\">Legal</a><br>-&nbsp;<a class=\"text-primary\" href=\"cookies.html\">Cookies</a><br>-&nbsp;<a class=\"text-primary\" href=\"privacy.html\">Privacy</a><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "16px",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-8f"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#131e40",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html#msg-box3-9t\">CONTACTO</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#070c19"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#0f1834!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#131e40"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f97352!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logoazul-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CASA EVASIÓN ALMUÑÉCAR</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-dr"
+        }
+      ]
+    },
+    "legal.html": {
+      "settings": {
+        "meta_descr": "Cookies",
+        "title": "Legal",
+        "order": 7
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "23px",
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-size": "36px",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "7",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "title": "LEGAL&nbsp;",
+          "meta": "A special form to enjoy and visit Spain.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-7r"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "23px",
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#f3c649",
+              "font-size": "36px",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgColor": "#131e40"
+          },
+          "title": "ESPAÑOL",
+          "meta": "A special form to enjoy and visit Spain.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-7u"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>AVISO LEGAL.</b><br>El presente Aviso Legal regula las condiciones generales de acceso y utilización del sitio web accesible en la dirección URL https://casaevasion.com (en adelante, el sitio web), que Caminos Auténticos pone a disposición de los usuarios de Internet.&nbsp;<span style=\"font-size: 1.07rem;\">La utilización del sitio web implica la aceptación plena y sin reservas de todas y cada una de las disposiciones incluidas en este Aviso Legal.&nbsp;</span><span style=\"font-size: 1.07rem;\">En consecuencia, el usuario del sitio web debe leer atentamente el presente Aviso Legal en cada una de las ocasiones en que se proponga utilizar la web, ya que el texto podría sufrir modificaciones a criterio del titular de la web, o a causa de un cambio legislativo, jurisprudencial o en la práctica empresarial.</span></p><p><br></p><p><b>1.- TITULARIDAD DEL SITIO WEB.</b></p><p><b><br></b></p><p>Razón Social de la Empresa:&nbsp;</p><p>Domicilio social:&nbsp;</p><p>C.I.F.:&nbsp;</p><p>Teléfono de contacto: &nbsp;(+34)&nbsp;</p><p>Correo electrónico: info @ casaevasion.com</p><p><b><br></b></p><p><b><br></b></p><p><b style=\"font-size: 1.07rem;\">2.- OBJETO.</b><br></p><p><span style=\"font-size: 1.07rem;\">El sitio web facilita a los usuarios del mismo el acceso a información y servicios prestados por Caminos Auténticos a aquellas personas u organizaciones interesadas en los mismos.</span><br></p><p><b><br></b></p><p><br></p><p><b>3.- ACCESO Y UTILIZACIÓN DE LA WEB.</b></p><p><b><br></b></p><p>3.1.- Carácter gratuito del acceso y utilización de la web.</p><p>El acceso a la web tiene carácter gratuito para los usuarios de la misma.</p><p><br></p><p>3.2.- Registro de usuarios.</p><p>Con carácter general el acceso y utilización de la web no exige la previa suscripción o registro de los usuarios de la misma.</p><p><br></p><p><b style=\"font-size: 1.07rem;\">4.- CONTENIDOS DE LA WEB.</b><br></p><p><b><br></b></p><p>Caminos Auténticos no se responsabiliza de la no comprensión o entendimiento del idioma de la web por el usuario, ni de sus consecuencias.&nbsp;<span style=\"font-size: 1.07rem;\">Caminos Auténticos podrá modificar los contenidos sin previo aviso, así como suprimir y cambiar éstos dentro de la web, como la forma en que se accede a éstos, sin justificación alguna y libremente, no responsabilizándose de las consecuencias que los mismos puedan ocasionar a los usuarios.&nbsp;</span><span style=\"font-size: 1.07rem;\">Se prohíbe el uso de los contenidos de la web para promocionar, contratar o divulgar publicidad o información propia o de terceras personas sin la autorización Caminos Auténticos, ni remitir publicidad o información valiéndose para ello de los servicios o información que se ponen a disposición de los usuarios, independientemente de si la utilización es gratuita o no.&nbsp;</span><span style=\"font-size: 1.07rem;\">Los enlaces o hiperenlaces que incorporen terceros en sus páginas web, dirigidos a esta web, serán para la apertura de la página web completa, no pudiendo manifestar, directa o indirectamente, indicaciones falsas, inexactas o confusas, ni incurrir en acciones desleales o ilícitas en contra de Caminos Auténticos.</span></p><p><b><br></b></p><p><b style=\"font-size: 1.07rem;\">5.- LIMITACIÓN DE RESPONSABILIDAD.</b><br></p><p><b><br></b></p><p>Tanto el acceso a la web como el uso no consentido que pueda efectuarse de la información contenida en la misma es de la exclusiva responsabilidad de quien lo realiza. Caminos Auténticos no responderá de ninguna consecuencia, daño o perjuicio que pudieran derivarse de dicho acceso o uso.&nbsp;<span style=\"font-size: 1.07rem;\">Caminos Auténticos no se hace responsable de los errores de seguridad, que se puedan producir ni de los daños que puedan causarse al sistema informático del usuario (hardware y software), o a los ficheros o documentos almacenados en el mismo, como consecuencia de:</span></p><p><span style=\"font-size: 1.07rem;\">– la presencia de un virus en el ordenador del usuario que sea utilizado para la conexión a los servicios y contenidos de la web,&nbsp;</span><span style=\"font-size: 1.07rem;\">– un mal funcionamiento del navegador,&nbsp;</span><span style=\"font-size: 1.07rem;\">– y/o del uso de versiones no actualizadas del mismo.</span></p><p><br></p><p>Caminos Auténticos no se hace responsable de la fiabilidad y rapidez de los hiperenlaces que se incorporen en la web para la apertura de otras. Caminos Auténticos no garantiza la utilidad de estos enlaces, ni se responsabiliza de los contenidos o servicios a los que pueda acceder el usuario por medio de estos enlaces, ni del buen funcionamiento de estas webs.&nbsp;<span style=\"font-size: 1.07rem;\">Caminos Auténticos no será responsable de los virus o demás programas informáticos que deterioren o puedan deteriorar los sistemas o equipos informáticos de los usuarios al acceder a su web u otras webs a las que se haya accedido mediante enlaces de esta web.</span></p><p><b><br></b></p><p><b style=\"font-size: 1.07rem;\">6.- EMPLEO DE COOKIES.</b><br></p><p><b><br></b></p><p>La web emplea cookies, puede consultar nuestra Política de Cookies, que respeta en todo momento la confidencialidad e intimidad del mismo.</p><p><br></p><p><b style=\"font-size: 1.07rem;\">7.- PROPIEDAD INTELECTUAL E INDUSTRIAL.</b><br></p><p><b><br></b></p><p>Son propiedad de Caminos Auténticos, todos los derechos de propiedad industrial e intelectual de la web, así como de los contenidos que alberga. Cualquier uso de la web o sus contenidos deberá tener un carácter exclusivamente particular. Está reservado exclusivamente a Caminos Auténticos, cualquier otro uso que suponga la copia, reproducción, distribución, transformación, comunicación pública o cualquier otra acción similar, de todo o parte de los contenidos de la web, por lo que ningún usuario podrá llevar a cabo estas acciones sin la autorización previa y por escrito de Caminos Auténticos.</p><p><br></p><p><b>&nbsp;8.- POLÍTICA DE PRIVACIDAD Y PROTECCIÓN DE DATOS</b></p><p><b><br></b></p><p>Caminos Auténticos garantiza la protección y confidencialidad de los datos personales, de cualquier tipo que nos proporcionen nuestras empresas clientes de acuerdo con lo dispuesto en la Ley Orgánica 15/1999, de 13 de Diciembre de Protección de Datos de Carácter Personal.&nbsp;<span style=\"font-size: 1.07rem;\">Todos los datos facilitados por nuestras empresas clientes a Caminos Auténticos o a su personal, serán incluidos en un fichero automatizado de datos de carácter personal creado y mantenido bajo la responsabilidad de Caminos Auténticos, imprescindibles para prestar los servicios solicitados por los usuarios.&nbsp;</span><span style=\"font-size: 1.07rem;\">Los datos facilitados serán tratados según el Reglamento de Medidas de Seguridad (Real Decreto 1720/2007 de 21 de Diciembre), en este sentido Caminos Auténticos ha adoptado los niveles de protección que legalmente se exigen, y ha instalado todas las medidas técnicas a su alcance para evitar la pérdida, mal uso, alteración, acceso no autorizado por terceros.&nbsp;</span><span style=\"font-size: 1.07rem;\">No obstante, el usuario debe ser consciente de que las medidas de seguridad en Internet no son inexpugnables. En caso en que considere oportuno que se cedan sus datos de carácter personal a otras entidades, el usuario será informado de los datos cedidos, de la finalidad del fichero y del nombre y dirección del cesionario, para que de su consentimiento inequívoco al respecto.&nbsp;</span><span style=\"font-size: 1.07rem;\">En cumplimiento de lo establecido en la RGPD, el usuario podrá ejercer sus derechos de acceso, rectificación, cancelación y oposición. Para ello debe de contactar con nosotros en info@caminosautenticos</span></p><p><b><br></b></p><p><b style=\"font-size: 1.07rem;\">9.- LEGISLACIÓN APLICABLE Y JURISDICCIÓN COMPETENTE.</b><br></p><p><b><br></b></p><p>El presente Aviso Legal se interpretará y regirá de conformidad con la legislación española. Caminos Auténticos y los usuarios, con renuncia expresa a cualquier otro fuero que pudiera corresponderles, se someten al de los juzgados y tribunales del domicilio del usuario para cualquier controversia que pudiera derivarse del acceso o uso de la web. En el caso de que el usuario tenga su domicilio fuera de España, Caminos Auténticos y el usuario, se someten, con renuncia expresa a cualquier otro fuero, a los juzgados y tribunales del domicilio de Caminos Auténticos</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-7v"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#131e40",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logoazul-128x128.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "sun2",
+              "family": "MobiriseIcons",
+              "active": true
+            }
+          },
+          "text1": "<b>CASA EVASION</b><br>Paseo de Cotobro ALMUÑECAR<br>GRANADA- Spain<br>",
+          "text2": "hola@casaevasion.com<br>&nbsp;(+34) &nbsp;655 78 92 07",
+          "text3": "-&nbsp;<a class=\"text-primary\" href=\"legal.html\">Legal</a><br>-&nbsp;<a class=\"text-primary\" href=\"cookies.html\">Cookies</a><br>-&nbsp;<a class=\"text-primary\" href=\"privacy.html\">Privacy</a><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "16px",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-7y"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#131e40",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html#msg-box3-9t\">CONTACTO</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#070c19"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#0f1834!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#131e40"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f97352!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logoazul-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CASA EVASIÓN ALMUÑÉCAR</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-dr"
+        }
+      ]
+    }
+  }
+}
