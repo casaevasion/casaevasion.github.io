@@ -857,6 +857,12 @@ section.form .container {
 #msg-box3-b5 .lead P {
   font-size: 17px;
 }
+#form1-du .form-control-label {
+  color: #000000;
+}
+#form1-du .mbr-section-title {
+  font-size: 30px;
+}
 #header3-cx .mbr-section-title,
 #header3-cx .mbr-section-subtitle {
   text-align: center;

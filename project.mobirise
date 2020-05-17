@@ -33,7 +33,7 @@
     "versionFirst": "4.12.3",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 498,
+    "uniqCompNum": 499,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "cookiesAlert": {
@@ -52,7 +52,7 @@
       "colorText": "#a7a7a7",
       "colorLink": "#149dcc",
       "underlineLink": true,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+      "text": "He leído y acepto la <a href='privacy.html'>Politica de Privacidad</a>."
     },
     "favicon": "@PROJECT_PATH@/assets/images/logoazul-128x128-1.png",
     "robotsSwitcher": false,
@@ -2642,6 +2642,66 @@
           "_anchor": "msg-box3-b5"
         },
         {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#000000",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Consulta",
+          "subtitle": "Si tienes alguna duda o comentario que hacernos",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
+          "form": {
+            "action": "casaevasion@gmail.com",
+            "alerts": {
+              "success": "¡ENVIADO!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Telf.*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Comentario"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-du",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          }
+        },
+        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -2999,7 +3059,7 @@
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "title": "PRIVACIDAD&nbsp;",
+          "title": "Política de privacidad",
           "meta": "A special form to enjoy and visit Spain.",
           "_tags": [
             "Theme"
@@ -3042,7 +3102,7 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "text": "<p><b>Política de privacidad</b></p><p>En cumplimiento de lo establecido en la RGPD, le informamos que sus datos serán tratados en nuestros ficheros, con la finalidad del mantenimiento y cumplimiento de la relación con nuestra entidad, incluyendo el envío de comunicaciones en el marco de la citada relación.</p><p><br></p><p>Así mismo, sus datos serán cedidos en todos aquellos casos en que sea necesario para el desarrollo, cumplimiento y control de la relación con nuestra entidad o en los supuestos en que lo autorice una norma con rango de ley.</p><p><br></p><p>En cumplimiento de la RGPD puede ejercitar sus derechos ante Caminos Auténticos, con dirección en Málaga, adjuntando fotocopia de su DNI.</p><p><br></p><p>&nbsp;El contenido de esta comunicación, así como el de toda la documentación anexa, está sujeta al deber de secreto y va dirigida únicamente a su destinatario. En el supuesto de que usted no fuera el destinatario, le solicitamos que nos lo indique y no comunique su contenido a terceros, procediendo a su destrucción.</p><p><br></p><p>El prestador de servicios de la sociedad de la información deberá tener en cuenta que, además de la información que facilite a los destinatarios del servicio a través de su “Política de Privacidad”, deberá disponer de textos legales adicionales relativos a otras normativas de obligado cumplimiento, tales como, sin carácter limitativo o excluyente, condiciones generales de la contratación, propiedad intelectual e industrial, condiciones de utilización de la página web y responsabilidades al respecto, o lo que la propia Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y de Comercio Electrónico pueda establecer en cualesquiera otros preceptos al margen de su artículo 10 o incluso completar la información que, en relación a éste, fuese necesaria.</p>",
+          "text": "<p><span style=\"font-size: 1.07rem;\">En cumplimiento de lo establecido en la RGPD, le informamos que sus datos serán tratados en nuestros ficheros, con la finalidad del mantenimiento y cumplimiento de la relación con nuestra entidad, incluyendo el envío de comunicaciones en el marco de la citada relación.</span><br></p><p><br></p><p>Así mismo, sus datos serán cedidos en todos aquellos casos en que sea necesario para el desarrollo, cumplimiento y control de la relación con nuestra entidad o en los supuestos en que lo autorice una norma con rango de ley.</p><p><br></p><p>En cumplimiento de la RGPD puede ejercitar sus derechos ante Casa Evasión, adjuntando fotocopia de su DNI.</p><p><br></p><p>&nbsp;El contenido de esta comunicación, así como el de toda la documentación anexa, está sujeta al deber de secreto y va dirigida únicamente a su destinatario. En el supuesto de que usted no fuera el destinatario, le solicitamos que nos lo indique y no comunique su contenido a terceros, procediendo a su destrucción.</p><p><br></p><p>El prestador de servicios de la sociedad de la información deberá tener en cuenta que, además de la información que facilite a los destinatarios del servicio a través de su “Política de Privacidad”, deberá disponer de textos legales adicionales relativos a otras normativas de obligado cumplimiento, tales como, sin carácter limitativo o excluyente, condiciones generales de la contratación, propiedad intelectual e industrial, condiciones de utilización de la página web y responsabilidades al respecto, o lo que la propia Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y de Comercio Electrónico pueda establecer en cualesquiera otros preceptos al margen de su artículo 10 o incluso completar la información que, en relación a éste, fuese necesaria.</p>",
           "_tags": [
             "Theme"
           ],
