@@ -34,7 +34,7 @@
     "versionFirst": "4.12.3",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 840,
+    "uniqCompNum": 858,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "gdpr": {
@@ -70,13 +70,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp;A-Kind-of-MAGIGWEB SL.</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp;A-Kind-of-MAGIGWEB SL.</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -106,13 +106,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -147,7 +147,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-hl"
         },
@@ -1037,7 +1037,7 @@
       "settings": {
         "meta_descr": "Cookies",
         "title": "Cookies",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -1164,13 +1164,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp;A-Kind-of-MAGIGWEB SL.</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp;A-Kind-of-MAGIGWEB SL.</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1241,7 +1241,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-hl"
         }
@@ -1251,7 +1251,7 @@
       "settings": {
         "meta_descr": "Cookies",
         "title": "Privacy",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -1378,13 +1378,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp;A-Kind-of-MAGIGWEB SL.</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp;A-Kind-of-MAGIGWEB SL.</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1455,7 +1455,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-hl"
         }
@@ -1465,7 +1465,7 @@
       "settings": {
         "meta_descr": "Cookies",
         "title": "Conditions",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -1634,13 +1634,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp;A-Kind-of-MAGIGWEB SL.</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp;A-Kind-of-MAGIGWEB SL.</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1711,7 +1711,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-hl"
         }
@@ -1721,7 +1721,7 @@
       "settings": {
         "meta_descr": "Cookies",
         "title": "Legal",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -1848,13 +1848,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp;A-Kind-of-MAGIGWEB SL.</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp;A-Kind-of-MAGIGWEB SL.</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1925,7 +1925,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-hl"
         }
@@ -1938,7 +1938,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -4610,13 +4610,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp;A-Kind-of-MAGIGWEB SL.</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp;A-Kind-of-MAGIGWEB SL.</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -4687,7 +4687,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-hl"
         }
@@ -4697,7 +4697,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "index",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -4753,13 +4753,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp;A-Kind-of-MAGIGWEB SL.</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp;A-Kind-of-MAGIGWEB SL.</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -4830,7 +4830,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-hl"
         }
@@ -4840,7 +4840,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "1- Alquiler&nbsp;",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -6666,13 +6666,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp;A-Kind-of-MAGIGWEB SL.</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp;A-Kind-of-MAGIGWEB SL.</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -6743,7 +6743,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-hl"
         }
@@ -6756,7 +6756,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -6768,13 +6768,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp;A-Kind-of-MAGIGWEB SL.</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp;A-Kind-of-MAGIGWEB SL.</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -6845,7 +6845,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-iq"
         },
@@ -8467,7 +8467,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "2- Alquiler",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -10307,13 +10307,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp;A-Kind-of-MAGIGWEB SL.</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp;A-Kind-of-MAGIGWEB SL.</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -10384,7 +10384,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-l3"
         }
@@ -10394,7 +10394,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "3- Alquiler",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -12257,13 +12257,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp;A-Kind-of-MAGIGWEB SL.</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp;A-Kind-of-MAGIGWEB SL.</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -12334,7 +12334,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-mp"
         }
