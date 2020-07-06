@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CASA EVASION ",
-    "currentPage": "index.html",
+    "currentPage": "page10.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -34,7 +34,7 @@
     "versionFirst": "4.12.3",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 870,
+    "uniqCompNum": 872,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "gdpr": {
@@ -9957,9 +9957,9 @@
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Email</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">facebook</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">WhatsApp</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"mailto:hola@casaevasion.es\" data-toolbar=\"-mbrBtnMove\">Email</a>  <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://api.whatsapp.com/send?phone=(+34)644263289&amp;text=Hola\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WhatsApp</a>",
           "_name": "msg-box3",
-          "_anchor": "msg-box3-ky"
+          "_anchor": "msg-box3-o6"
         },
         {
           "_styles": {
@@ -11880,9 +11880,9 @@
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Email</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">facebook</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">WhatsApp</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"mailto:hola@casaevasion.es\" data-toolbar=\"-mbrBtnMove\">Email</a>  <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://api.whatsapp.com/send?phone=(+34)644263289&amp;text=Hola\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WhatsApp</a>",
           "_name": "msg-box3",
-          "_anchor": "msg-box3-mj"
+          "_anchor": "msg-box3-o7"
         },
         {
           "_styles": {
