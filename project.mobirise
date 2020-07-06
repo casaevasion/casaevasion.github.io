@@ -4192,7 +4192,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/sky.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -7512,7 +7512,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/a17-1400x934.jpg",
+              "src": "@PROJECT_PATH@/assets/images/11-1-1024x768.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -7578,7 +7578,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/980b802b-31c2-4875-b139-76ba7eff0ead-2-1024x768.jpg",
+              "src": "@PROJECT_PATH@/assets/images/8-1023x682.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -7638,7 +7638,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/a20-1400x934.jpg",
+              "src": "@PROJECT_PATH@/assets/images/9-1024x768.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -7704,7 +7704,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sky.jpg",
+              "src": "@PROJECT_PATH@/assets/images/7-1023x681.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -7764,7 +7764,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/a22-1400x934.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-1023x660.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -7782,7 +7782,7 @@
             }
           },
           "title": "MÉTODO: 'Las tres DER'",
-          "text": "<b>- 1. AprenDER: &nbsp;</b>Cómo funciona la mente del <b>'MOBILE HOMO SAPIENS'</b>, utilizar las sutiles técnicas de NEURO marketing.<br><br><b>- 2. SorprenDER:&nbsp;</b>Con una web exclusiva con estilo propio, llevando al potencial cliente a tu terreno, <b>presentándole la vivienda de forma exclusiva.</b><br><br><b>- 3. AtenDER:&nbsp;</b>Potenciar la interacción con las personas interesadas en la vivienda. <b>En la interacción está la clave para incrementar la confianza y la conexión personal.</b>",
+          "text": "<b>-Aprender: &nbsp;</b>Cómo funciona la mente del <b>'MOBILE HOMO SAPIENS'</b>, utilizar las sutiles técnicas de NEURO marketing.<br><br><b>-Sorprender:&nbsp;</b>Con una web exclusiva con estilo propio, llevando al potencial cliente a tu terreno, <b>presentándole la vivienda de forma exclusiva.</b><br><br><b>-Atender:&nbsp;</b>Potenciar la interacción con las personas interesadas en la vivienda. <b>En la interacción está la clave para incrementar la confianza y la conexión personal.</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
