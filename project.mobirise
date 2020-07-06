@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CASA EVASION ",
-    "currentPage": "index.html",
+    "currentPage": "page8.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -34,7 +34,7 @@
     "versionFirst": "4.12.3",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 866,
+    "uniqCompNum": 870,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "gdpr": {
@@ -980,7 +980,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Casa Evasión!<br>",
-          "text": "<span style=\"font-style: normal;\"><b>A-Kind-of-MAGICWEB S.L.</b></span><br><span style=\"font-style: normal;\">Servicios de desarrollo web &amp; <br>neuromarqueting digital inmobiliario.</span>&nbsp;",
+          "text": "<span style=\"font-style: normal;\">Servicios de desarrollo web &amp; <br>neuromarqueting digital inmobiliario.</span>&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"mailto:hola@casaevasion.es\" data-toolbar=\"-mbrBtnMove\">Email</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://api.whatsapp.com/send?phone=(+34)644263289&amp;text=Hola\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WhatsApp</a>",
           "_tags": [
             "Theme"
@@ -7146,7 +7146,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/11-1024x768.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2-1-1024x768.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -7206,7 +7206,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/11-1024x768.jpg",
+              "src": "@PROJECT_PATH@/assets/images/16-1-1023x710.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -7269,7 +7269,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/7-1023x682.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1-1024x768.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -7329,7 +7329,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/11-1024x768.jpg",
+              "src": "@PROJECT_PATH@/assets/images/aa-600x458.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -7386,7 +7386,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/11-1024x768.jpg",
+              "src": "@PROJECT_PATH@/assets/images/9-1023x682.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -7449,7 +7449,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/11-1024x768.jpg",
+              "src": "@PROJECT_PATH@/assets/images/a3-1400x934.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -7512,7 +7512,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/11-1024x768.jpg",
+              "src": "@PROJECT_PATH@/assets/images/a17-1400x934.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -7578,7 +7578,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/11-1024x768.jpg",
+              "src": "@PROJECT_PATH@/assets/images/a22-1400x934.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -7638,7 +7638,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/11-1024x768.jpg",
+              "src": "@PROJECT_PATH@/assets/images/a20-1400x934.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -7704,7 +7704,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/11-1024x768.jpg",
+              "src": "@PROJECT_PATH@/assets/images/20-1024x768.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -7764,7 +7764,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/11-1024x768.jpg",
+              "src": "@PROJECT_PATH@/assets/images/a2-1400x934.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -7811,28 +7811,31 @@
             },
             ".mbr-section-title": {
               "font-size": "36px"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "20px"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": "5",
-            "paddingBottom": 1,
+            "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "title": "Ejemplos de Alquiler",
-          "meta": "Webs exclusivas para alquilar",
+          "title": "Ejemplos de Alquiler Vacacional",
+          "meta": "Webs exclusivas para alquilar más.",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-jb"
+          "_anchor": "header3-o2"
         },
         {
           "_params": {
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
-            "ShowTexts": false,
+            "ShowTexts": true,
             "showButtons": true,
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -7852,35 +7855,37 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/10-1023x682.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2-1-1024x768.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "page7.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1-1023x682-800x533.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "page9.html",
               "alt": "",
               "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/8-1023x682-800x533.jpg",
+              "src": "@PROJECT_PATH@/assets/images/aa-600x458.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "page10.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media4": {
@@ -7907,15 +7912,15 @@
               "active": true
             }
           },
-          "title1": "Casa tradicional española&nbsp;",
-          "subtitle1": "en el corazón de la ciudad.",
-          "caption1": "En una calle tranquila, <br>a pocos minutos del centro.",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is&nbsp;",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive&nbsp;",
-          "caption3": "Google has a highly exhaustive lis.",
+          "title1": "Casa de pueblo&nbsp;",
+          "subtitle1": "En el corazón de la ciudad.",
+          "caption1": "ÚBEDA (Jaén)",
+          "title2": "Villa Cortijo",
+          "subtitle2": "Una Villa con el estilo 'Cortijo Andaluz'",
+          "caption2": "VEJER DE LA FRONTERA (Cádiz)",
+          "title3": "Una casa en el cielo",
+          "subtitle3": "Tocar la inmensidad cada día",
+          "caption3": "TREVÉLEZ (Granada)",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
@@ -7926,8 +7931,8 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"page7.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VER MAS</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VER MAS</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page10.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VER MAS</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -7940,7 +7945,7 @@
               "font-size": "18px"
             }
           },
-          "_anchor": "features3-jc"
+          "_anchor": "features3-o3"
         },
         {
           "_styles": {
@@ -8226,8 +8231,8 @@
             "showTitle": true,
             "showSubTitle": true,
             "labelsColor": "#000000",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -8237,8 +8242,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "formulario de contacto",
-          "subtitle": "Si tienes alguna duda o comentario que hacernos",
+          "title": "Para saber si tu caso es <br><span style=\"font-weight: normal;\">'especial' o 'muy especial'</span>",
+          "subtitle": "- Contactar ahora para resolver la incógnita -",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
           "form": {
             "action": "casaevasion@gmail.com",
@@ -8276,33 +8281,13 @@
               "color": "#000000"
             },
             ".mbr-section-title": {
-              "font-size": "30px"
-            }
-          },
-          "_anchor": "form1-jh"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
+              "font-size": "36px"
             },
-            ".mbr-section-title": {
-              "color": "#f97352"
+            ".mbr-section-subtitle": {
+              "font-size": "19px"
             }
           },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#f97352"
-          },
-          "title": ".",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-ji"
+          "_anchor": "form1-o4"
         },
         {
           "_inherit": "header1",
@@ -8335,13 +8320,36 @@
             "overlayOpacity": 0.5
           },
           "title": "Casa Evasión!<br>",
-          "text": "<span style=\"font-style: normal;\"><b>A-Kind-of-MAGICWEB S.L.</b></span><br><span style=\"font-style: normal;\">Servicios de desarrollo web &amp; <br>neuromarqueting digital inmobiliario.<br></span><b>hola@casaevasion.es</b><br>(+34)&nbsp;644 263 289",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"mailto:hola@casaevasion.es\" data-toolbar=\"-mbrBtnMove\">Email</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://wa.me/34644263289?text=Hola%20\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WhatsApp</a>",
+          "text": "<span style=\"font-style: normal;\">Servicios de desarrollo web &amp; <br>neuromarqueting digital inmobiliario.</span>&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"mailto:hola@casaevasion.es\" data-toolbar=\"-mbrBtnMove\">Email</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://api.whatsapp.com/send?phone=(+34)644263289&amp;text=Hola\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WhatsApp</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header5",
-          "_anchor": "header5-jj"
+          "_anchor": "header5-o5"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#f97352"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#f97352"
+          },
+          "title": ".",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-ji"
         },
         {
           "_params": {

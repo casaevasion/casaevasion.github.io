@@ -2210,14 +2210,17 @@ section.form .container {
 #msg-box5-jw P {
   font-size: 19px;
 }
-#header3-jb .mbr-section-title,
-#header3-jb .mbr-section-subtitle {
+#header3-o2 .mbr-section-title,
+#header3-o2 .mbr-section-subtitle {
   text-align: center;
 }
-#header3-jb .mbr-section-title {
+#header3-o2 .mbr-section-title {
   font-size: 36px;
 }
-#features3-jc H5 {
+#header3-o2 .mbr-section-subtitle {
+  font-size: 20px;
+}
+#features3-o3 H5 {
   font-size: 18px;
 }
 #header3-js .mbr-section-title,
@@ -2291,11 +2294,21 @@ section.form .container {
   color: #c0a375;
   text-align: right;
 }
-#form1-jh .form-control-label {
+#form1-o4 .form-control-label {
   color: #000000;
 }
-#form1-jh .mbr-section-title {
-  font-size: 30px;
+#form1-o4 .mbr-section-title {
+  font-size: 36px;
+}
+#form1-o4 .mbr-section-subtitle {
+  font-size: 19px;
+}
+#header5-o5 .mbr-section-title {
+  color: #000;
+  font-size: 48px;
+}
+#header5-o5 .mbr-section-lead {
+  color: #28324e;
 }
 #header3-ji .mbr-section-title,
 #header3-ji .mbr-section-subtitle {
@@ -2303,13 +2316,6 @@ section.form .container {
 }
 #header3-ji .mbr-section-title {
   color: #f97352;
-}
-#header5-jj .mbr-section-title {
-  color: #000;
-  font-size: 48px;
-}
-#header5-jj .mbr-section-lead {
-  color: #28324e;
 }
 #contacts1-jk P {
   color: #ffffff;
