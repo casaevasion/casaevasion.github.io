@@ -7419,6 +7419,9 @@
             },
             "H3": {
               "font-size": "36px"
+            },
+            "P": {
+              "font-size": "21px"
             }
           },
           "_anchor": "msg-box5-j5"
