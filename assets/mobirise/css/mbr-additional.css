@@ -724,19 +724,6 @@ section.form .container {
   font-size: 36px;
   text-align: left;
 }
-#header3-7j .mbr-section-title,
-#header3-7j .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-7j .mbr-section-subtitle {
-  font-size: 23px;
-  color: #000000;
-}
-#header3-7j .mbr-section-title {
-  color: #f3c649;
-  font-size: 36px;
-  text-align: left;
-}
 #contacts1-hj P {
   color: #ffffff;
   font-size: 15px;
@@ -773,19 +760,19 @@ section.form .container {
 }
 #ext_menu-hl .link[aria-expanded="true"],
 #ext_menu-hl .dropdown-menu {
-  background: #0e0e0e;
+  background: #000000;
 }
 #ext_menu-hl .nav-dropdown-sm .link:focus,
 #ext_menu-hl .nav-dropdown-sm .link:hover,
 #ext_menu-hl .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-hl .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #000000!important;
 }
 #ext_menu-hl .navbar,
 #ext_menu-hl .nav-dropdown-sm,
 #ext_menu-hl .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-hl .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #000000;
 }
 #ext_menu-hl .bg-color.transparent .link {
   color: #ffffff;
@@ -818,19 +805,6 @@ section.form .container {
   font-size: 36px;
   text-align: left;
 }
-#header3-85 .mbr-section-title,
-#header3-85 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-85 .mbr-section-subtitle {
-  font-size: 23px;
-  color: #000000;
-}
-#header3-85 .mbr-section-title {
-  color: #f3c649;
-  font-size: 36px;
-  text-align: left;
-}
 #contacts1-hj P {
   color: #ffffff;
   font-size: 15px;
@@ -867,19 +841,19 @@ section.form .container {
 }
 #ext_menu-hl .link[aria-expanded="true"],
 #ext_menu-hl .dropdown-menu {
-  background: #0e0e0e;
+  background: #000000;
 }
 #ext_menu-hl .nav-dropdown-sm .link:focus,
 #ext_menu-hl .nav-dropdown-sm .link:hover,
 #ext_menu-hl .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-hl .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #000000!important;
 }
 #ext_menu-hl .navbar,
 #ext_menu-hl .nav-dropdown-sm,
 #ext_menu-hl .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-hl .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #000000;
 }
 #ext_menu-hl .bg-color.transparent .link {
   color: #ffffff;
@@ -1019,19 +993,6 @@ section.form .container {
   font-size: 36px;
   text-align: left;
 }
-#header3-7u .mbr-section-title,
-#header3-7u .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-7u .mbr-section-subtitle {
-  font-size: 23px;
-  color: #000000;
-}
-#header3-7u .mbr-section-title {
-  color: #f3c649;
-  font-size: 36px;
-  text-align: left;
-}
 #contacts1-hj P {
   color: #ffffff;
   font-size: 15px;
@@ -1068,19 +1029,19 @@ section.form .container {
 }
 #ext_menu-hl .link[aria-expanded="true"],
 #ext_menu-hl .dropdown-menu {
-  background: #e6e6e6;
+  background: #000000;
 }
 #ext_menu-hl .nav-dropdown-sm .link:focus,
 #ext_menu-hl .nav-dropdown-sm .link:hover,
 #ext_menu-hl .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-hl .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
+  background: #000000!important;
 }
 #ext_menu-hl .navbar,
 #ext_menu-hl .nav-dropdown-sm,
 #ext_menu-hl .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-hl .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
+  background: #000000;
 }
 #ext_menu-hl .bg-color.transparent .link {
   color: #ffffff;
@@ -3072,19 +3033,19 @@ section.form .container {
 }
 #ext_menu-mp .link[aria-expanded="true"],
 #ext_menu-mp .dropdown-menu {
-  background: #e6e6e6;
+  background: #000000;
 }
 #ext_menu-mp .nav-dropdown-sm .link:focus,
 #ext_menu-mp .nav-dropdown-sm .link:hover,
 #ext_menu-mp .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-mp .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
+  background: #000000!important;
 }
 #ext_menu-mp .navbar,
 #ext_menu-mp .nav-dropdown-sm,
 #ext_menu-mp .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-mp .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
+  background: #000000;
 }
 #ext_menu-mp .bg-color.transparent .link {
   color: #ffffff;
