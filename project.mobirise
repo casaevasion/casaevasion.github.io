@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CASA EVASION ",
-    "currentPage": "page7.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -76,7 +76,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:hola@casaevasion.es\">hola@casaevasion.com</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:hola@casaevasion.es\">hola@casaevasion.com</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://api.whatsapp.com/send?phone=(+34)644263289&amp;text=Hola\" target=\"_blank\">WhatsApp</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -172,7 +172,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Casa Evasión!",
-          "text": "<span style=\"font-style: normal;\">Diseño web &amp;&nbsp;<b>neuro</b>marketing</span><br><span style=\"font-style: normal;\">I N M O B I L I A R I O</span>",
+          "text": "<span style=\"font-style: normal;\">Diseño web &amp;&nbsp;<b>neuro</b>marketing</span><br><span style=\"font-style: normal;\">I N <b>M O B I L e</b> A R I O</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box3-26\" data-toolbar=\"-mbrBtnMove\">Está claro</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#msg-box3-26\" data-toolbar=\"-mbrBtnMove\">No entiendo</a>",
           "_tags": [
             "Theme"
@@ -459,7 +459,7 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "title": "Ejemplos de Alquiler",
+          "title": "Ejemplos de Alquiler Vacacional",
           "meta": "Webs exclusivas para alquilar más.",
           "_tags": [
             "Theme"
@@ -981,7 +981,7 @@
           },
           "title": "Casa Evasión!<br>",
           "text": "<span style=\"font-style: normal;\"><b>A-Kind-of-MAGICWEB S.L.</b></span><br><span style=\"font-style: normal;\">Servicios de desarrollo web &amp; <br>neuromarqueting digital inmobiliario.</span>&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Email</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">WhatsApp</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"mailto:hola@casaevasion.es\" data-toolbar=\"-mbrBtnMove\">Email</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://api.whatsapp.com/send?phone=(+34)644263289&amp;text=Hola\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WhatsApp</a>",
           "_tags": [
             "Theme"
           ],
@@ -1018,7 +1018,7 @@
             }
           },
           "text1": "CASA EVASIÓN<br>Servicios de desarrollo web &amp; neuromarqueting digital inmobiliario.<br>",
-          "text2": "hola@casaevasion.es<br>Telf y WhatsApp:<br>&nbsp;(+34) 644 263 289<br>",
+          "text2": "hola@casaevasion.es<br>Telf y WhatsApp:<br>&nbsp;<a href=\"https://api.whatsapp.com/send?phone=(+34)644263289&amp;text=Hola\" target=\"_blank\">(+34) 644 263 289</a><br>",
           "text3": "-&nbsp;<a class=\"text-primary\" href=\"legal.html\">COOKIES</a><br>-&nbsp;<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">AVISO LEGAL</a><br>-<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">&nbsp;PRIVACIDAD</a>",
           "_tags": [
             "Theme"
@@ -1113,7 +1113,7 @@
             }
           },
           "text1": "CASA EVASIÓN<br>Servicios de desarrollo web &amp; neuromarqueting digital inmobiliario.<br>",
-          "text2": "hola@casaevasion.es<br>Telf y WhatsApp:<br>&nbsp;(+34) 644 263 289<br>",
+          "text2": "hola@casaevasion.es<br>Telf y WhatsApp:<br>&nbsp;<a href=\"https://api.whatsapp.com/send?phone=(+34)644263289&amp;text=Hola\" target=\"_blank\">(+34) 644 263 289</a><br>",
           "text3": "-&nbsp;<a class=\"text-primary\" href=\"legal.html\">COOKIES</a><br>-&nbsp;<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">AVISO LEGAL</a><br>-<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">&nbsp;PRIVACIDAD</a>",
           "_tags": [
             "Theme"
@@ -1142,7 +1142,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:hola@casaevasion.es\">hola@casaevasion.com</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:hola@casaevasion.es\">hola@casaevasion.com</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://api.whatsapp.com/send?phone=(+34)644263289&amp;text=Hola\" target=\"_blank\">WhatsApp</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1298,7 +1298,7 @@
             }
           },
           "text1": "CASA EVASIÓN<br>Servicios de desarrollo web &amp; neuromarqueting digital inmobiliario.<br>",
-          "text2": "hola@casaevasion.es<br>Telf y WhatsApp:<br>&nbsp;(+34) 644 263 289<br>",
+          "text2": "hola@casaevasion.es<br>Telf y WhatsApp:<br>&nbsp;<a href=\"https://api.whatsapp.com/send?phone=(+34)644263289&amp;text=Hola\" target=\"_blank\">(+34) 644 263 289</a><br>",
           "text3": "-&nbsp;<a class=\"text-primary\" href=\"legal.html\">COOKIES</a><br>-&nbsp;<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">AVISO LEGAL</a><br>-<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">&nbsp;PRIVACIDAD</a>",
           "_tags": [
             "Theme"
@@ -1327,7 +1327,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:hola@casaevasion.es\">hola@casaevasion.com</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:hola@casaevasion.es\">hola@casaevasion.com</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://api.whatsapp.com/send?phone=(+34)644263289&amp;text=Hola\" target=\"_blank\">WhatsApp</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1554,7 +1554,7 @@
             }
           },
           "text1": "CASA EVASIÓN<br>Servicios de desarrollo web &amp; neuromarqueting digital inmobiliario.<br>",
-          "text2": "hola@casaevasion.es<br>Telf y WhatsApp:<br>&nbsp;(+34) 644 263 289<br>",
+          "text2": "hola@casaevasion.es<br>Telf y WhatsApp:<br>&nbsp;<a href=\"https://api.whatsapp.com/send?phone=(+34)644263289&amp;text=Hola\" target=\"_blank\">(+34) 644 263 289</a><br>",
           "text3": "-&nbsp;<a class=\"text-primary\" href=\"legal.html\">COOKIES</a><br>-&nbsp;<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">AVISO LEGAL</a><br>-<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">&nbsp;PRIVACIDAD</a>",
           "_tags": [
             "Theme"
@@ -1583,7 +1583,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:hola@casaevasion.es\">hola@casaevasion.com</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:hola@casaevasion.es\">hola@casaevasion.com</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://api.whatsapp.com/send?phone=(+34)644263289&amp;text=Hola\" target=\"_blank\">WhatsApp</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1739,7 +1739,7 @@
             }
           },
           "text1": "CASA EVASIÓN<br>Servicios de desarrollo web &amp; neuromarqueting digital inmobiliario.<br>",
-          "text2": "hola@casaevasion.es<br>Telf y WhatsApp:<br>&nbsp;(+34) 644 263 289<br>",
+          "text2": "hola@casaevasion.es<br>Telf y WhatsApp:<br>&nbsp;<a href=\"https://api.whatsapp.com/send?phone=(+34)644263289&amp;text=Hola\" target=\"_blank\">(+34) 644 263 289</a><br>",
           "text3": "-&nbsp;<a class=\"text-primary\" href=\"legal.html\">COOKIES</a><br>-&nbsp;<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">AVISO LEGAL</a><br>-<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">&nbsp;PRIVACIDAD</a>",
           "_tags": [
             "Theme"
@@ -1768,7 +1768,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:hola@casaevasion.es\">hola@casaevasion.com</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:hola@casaevasion.es\">hola@casaevasion.com</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://api.whatsapp.com/send?phone=(+34)644263289&amp;text=Hola\" target=\"_blank\">WhatsApp</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -4501,7 +4501,7 @@
             }
           },
           "text1": "CASA EVASIÓN<br>Servicios de desarrollo web &amp; neuromarqueting digital inmobiliario.<br>",
-          "text2": "hola@casaevasion.es<br>Telf y WhatsApp:<br>&nbsp;(+34) 644 263 289<br>",
+          "text2": "hola@casaevasion.es<br>Telf y WhatsApp:<br>&nbsp;<a href=\"https://api.whatsapp.com/send?phone=(+34)644263289&amp;text=Hola\" target=\"_blank\">(+34) 644 263 289</a><br>",
           "text3": "-&nbsp;<a class=\"text-primary\" href=\"legal.html\">COOKIES</a><br>-&nbsp;<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">AVISO LEGAL</a><br>-<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">&nbsp;PRIVACIDAD</a>",
           "_tags": [
             "Theme"
@@ -4530,7 +4530,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:hola@casaevasion.es\">hola@casaevasion.com</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:hola@casaevasion.es\">hola@casaevasion.com</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://api.whatsapp.com/send?phone=(+34)644263289&amp;text=Hola\" target=\"_blank\">WhatsApp</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -4644,7 +4644,7 @@
             }
           },
           "text1": "CASA EVASIÓN<br>Servicios de desarrollo web &amp; neuromarqueting digital inmobiliario.<br>",
-          "text2": "hola@casaevasion.es<br>Telf y WhatsApp:<br>&nbsp;(+34) 644 263 289<br>",
+          "text2": "hola@casaevasion.es<br>Telf y WhatsApp:<br>&nbsp;<a href=\"https://api.whatsapp.com/send?phone=(+34)644263289&amp;text=Hola\" target=\"_blank\">(+34) 644 263 289</a><br>",
           "text3": "-&nbsp;<a class=\"text-primary\" href=\"legal.html\">COOKIES</a><br>-&nbsp;<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">AVISO LEGAL</a><br>-<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">&nbsp;PRIVACIDAD</a>",
           "_tags": [
             "Theme"
@@ -4673,7 +4673,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:hola@casaevasion.es\">hola@casaevasion.com</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:hola@casaevasion.es\">hola@casaevasion.com</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://api.whatsapp.com/send?phone=(+34)644263289&amp;text=Hola\" target=\"_blank\">WhatsApp</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -6569,7 +6569,7 @@
             }
           },
           "text1": "CASA EVASIÓN<br>Servicios de desarrollo web &amp; neuromarqueting digital inmobiliario.<br>",
-          "text2": "hola@casaevasion.es<br>Telf y WhatsApp:<br>&nbsp;(+34) 644 263 289<br>",
+          "text2": "hola@casaevasion.es<br>Telf y WhatsApp:<br>&nbsp;<a href=\"https://api.whatsapp.com/send?phone=(+34)644263289&amp;text=Hola\" target=\"_blank\">(+34) 644 263 289</a><br>",
           "text3": "-&nbsp;<a class=\"text-primary\" href=\"legal.html\">COOKIES</a><br>-&nbsp;<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">AVISO LEGAL</a><br>-<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">&nbsp;PRIVACIDAD</a>",
           "_tags": [
             "Theme"
@@ -6598,7 +6598,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:hola@casaevasion.es\">hola@casaevasion.com</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:hola@casaevasion.es\">hola@casaevasion.com</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://api.whatsapp.com/send?phone=(+34)644263289&amp;text=Hola\" target=\"_blank\">WhatsApp</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -6700,7 +6700,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:hola@casaevasion.es\">hola@casaevasion.com</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:hola@casaevasion.es\">hola@casaevasion.com</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://api.whatsapp.com/send?phone=(+34)644263289&amp;text=Hola\" target=\"_blank\">WhatsApp</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -8373,7 +8373,7 @@
             }
           },
           "text1": "CASA EVASIÓN<br>Servicios de desarrollo web &amp; neuromarqueting digital inmobiliario.<br>",
-          "text2": "hola@casaevasion.es<br>Telf y WhatsApp:<br>&nbsp;(+34) 644 263 289<br>",
+          "text2": "hola@casaevasion.es<br>Telf y WhatsApp:<br>&nbsp;<a href=\"https://api.whatsapp.com/send?phone=(+34)644263289&amp;text=Hola\" target=\"_blank\">(+34) 644 263 289</a><br>",
           "text3": "-&nbsp;<a class=\"text-primary\" href=\"legal.html\">COOKIES</a><br>-&nbsp;<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">AVISO LEGAL</a><br>-<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">&nbsp;PRIVACIDAD</a>",
           "_tags": [
             "Theme"
@@ -10210,7 +10210,7 @@
             }
           },
           "text1": "CASA EVASIÓN<br>Servicios de desarrollo web &amp; neuromarqueting digital inmobiliario.<br>",
-          "text2": "hola@casaevasion.es<br>Telf y WhatsApp:<br>&nbsp;(+34) 644 263 289<br>",
+          "text2": "hola@casaevasion.es<br>Telf y WhatsApp:<br>&nbsp;<a href=\"https://api.whatsapp.com/send?phone=(+34)644263289&amp;text=Hola\" target=\"_blank\">(+34) 644 263 289</a><br>",
           "text3": "-&nbsp;<a class=\"text-primary\" href=\"legal.html\">COOKIES</a><br>-&nbsp;<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">AVISO LEGAL</a><br>-<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">&nbsp;PRIVACIDAD</a>",
           "_tags": [
             "Theme"
@@ -10239,7 +10239,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:hola@casaevasion.es\">hola@casaevasion.com</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:hola@casaevasion.es\">hola@casaevasion.com</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://api.whatsapp.com/send?phone=(+34)644263289&amp;text=Hola\" target=\"_blank\">WhatsApp</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -12133,7 +12133,7 @@
             }
           },
           "text1": "CASA EVASIÓN<br>Servicios de desarrollo web &amp; neuromarqueting digital inmobiliario.<br>",
-          "text2": "hola@casaevasion.es<br>Telf y WhatsApp:<br>&nbsp;(+34) 644 263 289<br>",
+          "text2": "hola@casaevasion.es<br>Telf y WhatsApp:<br>&nbsp;<a href=\"https://api.whatsapp.com/send?phone=(+34)644263289&amp;text=Hola\" target=\"_blank\">(+34) 644 263 289</a><br>",
           "text3": "-&nbsp;<a class=\"text-primary\" href=\"legal.html\">COOKIES</a><br>-&nbsp;<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">AVISO LEGAL</a><br>-<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">&nbsp;PRIVACIDAD</a>",
           "_tags": [
             "Theme"
@@ -12162,7 +12162,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:hola@casaevasion.es\">hola@casaevasion.com</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">WhatsApp</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:hola@casaevasion.es\">hola@casaevasion.com</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://api.whatsapp.com/send?phone=(+34)644263289&amp;text=Hola\" target=\"_blank\">WhatsApp</a></li>",
           "_tags": [
             "Theme"
           ],
