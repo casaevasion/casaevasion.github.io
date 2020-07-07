@@ -464,6 +464,22 @@ section.form .container {
   flex-wrap: wrap;
   margin: 0 -15px;
 }
+#header1-jr .mbr-section-lead {
+  text-align: center;
+}
+#header1-jr .mbr-section-title {
+  text-align: center;
+  font-size: 60px;
+}
+#header1-jr .btn {
+  font-size: 30px;
+}
+#header1-jx .mbr-section-lead SPAN {
+  font-size: 30px;
+}
+#header1-jx .btn {
+  font-size: 25px;
+}
 #ext_menu-hl .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -554,25 +570,6 @@ section.form .container {
 }
 #msg-box3-aa .btn {
   font-size: 36px;
-}
-#header1-jp .mbr-section-lead SPAN {
-  font-size: 30px;
-}
-#header1-jr .mbr-section-lead {
-  text-align: left;
-}
-#header1-jr .mbr-section-title {
-  text-align: left;
-  font-size: 60px;
-}
-#header1-jr .btn {
-  font-size: 30px;
-}
-#header1-jx .mbr-section-lead SPAN {
-  font-size: 30px;
-}
-#header1-jx .btn {
-  font-size: 25px;
 }
 #header3-ip .mbr-section-title,
 #header3-ip .mbr-section-subtitle {

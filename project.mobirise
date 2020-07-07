@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CASA EVASION ",
-    "currentPage": "page8.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -61,6 +61,84 @@
         "html_before": ""
       },
       "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f28281",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "&gt; Cómo mejorar un 300% el rendimiento de un anuncio",
+          "text": "<span style=\"font-style: normal;\"><b>DE ALQUILER DE ALOJAMIENTO VACACIONAL</b><br>Si, ese anuncio que ya tiene en diferentes plataformas.</span><span style=\"font-style: normal;\"><br></span>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html#header1-jx\" data-toolbar=\"-mbrBtnMove\">El Método</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-jr",
+          "_styles": {
+            ".mbr-section-lead": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "60px"
+            },
+            ".btn": {
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#90a878",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": ".Las Tres 'der'.",
+          "text": "<span style=\"font-style: normal;\">Apren<b>der</b>,&nbsp;&nbsp;Sorpren<b>der&nbsp;</b>y Aten<b>der</b>&nbsp;</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html#header3-ip\" data-toolbar=\"-mbrBtnMove\">La Llave</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead SPAN": {
+              "font-size": "30px"
+            },
+            ".btn": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "header1-jx"
+        },
         {
           "_inherit": "menu",
           "_params": {
@@ -147,7 +225,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Diseño Web para Alquiler Vacacional</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-hl"
         },
@@ -162,7 +240,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#90a878",
+            "bgColor": "#faaf40",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -172,8 +250,8 @@
             "overlayOpacity": 0.5
           },
           "title": "Casa Evasión!",
-          "text": "<span style=\"font-style: normal;\">Diseño web &amp;&nbsp;<b>Neuro</b>marketing</span><br><span style=\"font-style: normal;\"><b>i n&nbsp;M O B I L e A R I O</b></span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box3-26\" data-toolbar=\"-mbrBtnMove\">Está claro</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#msg-box3-26\" data-toolbar=\"-mbrBtnMove\">No entiendo</a>",
+          "text": "<span style=\"font-style: normal;\">Diseño Web para Alquiler Vacacional</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html#msg-box3-26\" data-toolbar=\"-mbrBtnMove\">Está claro</a> ",
           "_tags": [
             "Theme"
           ],
@@ -270,118 +348,6 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">(+34) 678 950 054</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-aa"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f28281",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "Diseño Web!",
-          "text": "<span style=\"font-style: normal;\">'Neuro Mobile Inmobiliarius'</span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html#header1-jr\" data-toolbar=\"-mbrBtnMove\">Osea que</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"index.html#header1-jr\" data-toolbar=\"-mbrBtnMove\">No lo pillo</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-jp",
-          "_styles": {
-            ".mbr-section-lead SPAN": {
-              "font-size": "30px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#90a878",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "&gt; Mejoramos un 300% el rendimiento de su anuncio.",
-          "text": "<span style=\"font-style: normal;\"><b>ALQUILER (&amp; VENTA) DE ALOJAMIENTOS Y VIVIENDAS</b><br>Si, ese anuncio que ya tiene en diferentes plataformas.</span><span style=\"font-style: normal;\"><br></span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#header1-jx\" data-toolbar=\"-mbrBtnMove\">El Método</a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-jr",
-          "_styles": {
-            ".mbr-section-lead": {
-              "text-align": "left"
-            },
-            ".mbr-section-title": {
-              "text-align": "left",
-              "font-size": "60px"
-            },
-            ".btn": {
-              "font-size": "30px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f28281",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": ".Las Tres 'der'.",
-          "text": "<span style=\"font-style: normal;\">Apren<b>der</b>,&nbsp;&nbsp;Sorpren<b>der&nbsp;</b>y Aten<b>der</b>&nbsp;</span><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html#header3-ip\" data-toolbar=\"-mbrBtnMove\">La Llave</a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_styles": {
-            ".mbr-section-lead SPAN": {
-              "font-size": "30px"
-            },
-            ".btn": {
-              "font-size": "25px"
-            }
-          },
-          "_anchor": "header1-jx"
         },
         {
           "_styles": {
@@ -1213,7 +1179,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Diseño Web para Alquiler Vacacional</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-hl"
         }
@@ -1398,7 +1364,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Diseño Web para Alquiler Vacacional</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-hl"
         }
@@ -1654,7 +1620,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Diseño Web para Alquiler Vacacional</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-hl"
         }
@@ -1839,7 +1805,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Diseño Web para Alquiler Vacacional</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-hl"
         }
@@ -4601,7 +4567,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Diseño Web para Alquiler Vacacional</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-hl"
         }
@@ -4744,7 +4710,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Diseño Web para Alquiler Vacacional</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-hl"
         }
@@ -6669,7 +6635,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Diseño Web para Alquiler Vacacional</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-hl"
         }
@@ -6771,7 +6737,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Diseño Web para Alquiler Vacacional</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-iq"
         },
@@ -10322,7 +10288,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Diseño Web para Alquiler Vacacional</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-l3"
         }
@@ -12245,7 +12211,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISEÑO WEB &nbsp;'Neuro Mobile Inmobiliarius'</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Diseño Web para Alquiler Vacacional</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-mp"
         }
