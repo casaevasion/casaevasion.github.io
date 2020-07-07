@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#232323",
         "#f5f2e5",
         "#f8bc63",
         "#9eb6ba",
         "#fdf6d7",
         "#ebf6f7",
-        "#d4ecef",
-        "#ab86e6"
+        "#d4ecef"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -7403,7 +7403,7 @@
               "size": 0
             }
           },
-          "title": "&gt; Web propia:&nbsp;<br>Un <i>AS &nbsp;</i>en la manga",
+          "title": "Una web propia es un&nbsp;'as'<i>&nbsp;</i>en la manga",
           "text": "Imaginemos que durante el proceso de interacción, el propietario le envia por <b>emai</b>l o por <b>WhatsApp</b> un enlace a la Web propia de la vivienda, con su propio diseño y estilo, con más información, con ofertas exclusivas por alquilar fuera de la plataformas, etc.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -7532,7 +7532,7 @@
               "size": 0
             }
           },
-          "title": "&gt; Otra ventaja de<br>tener web propia",
+          "title": "Otra ventaja de<br>tener una web propia",
           "text": "Con ella se puede promocionar la vivienda <b>de forma independiente y fuera de las plataformas de alquiler</b>, por ejemplo, usando <b>Google Ads</b> y <b>Facebook Ads</b> o simplemente las redes sociales del propietario.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -7598,7 +7598,7 @@
               "size": 0
             }
           },
-          "title": "-&gt; ¡OJO AL DATO!",
+          "title": "¡Ojo!",
           "text": "Hay que tener en cuenta que promocionar directamente <b>el anuncio de la plataforma de alquiler</b>, no es una buena idea ya que el propietario estará llevando tráfico a la competencia, puesto que dentro de la plataforma, el usuario se verá atraido y seducido por ofertas similares.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Libre de plataformas</a>",
           "_tags": [
@@ -7607,7 +7607,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "font-size": "30px"
+              "font-size": "60px"
             },
             "P": {
               "font-size": "19px"
